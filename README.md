@@ -81,9 +81,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidul-fahim&show_icons=true&theme=transparent)
+![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob123121&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidul-fahim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nahidul-fahim)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Biplob123121&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nahidul-fahim)
 
 
 
@@ -98,7 +98,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-fahim&layout=donut-vertical&theme=transparent)](https://github.com/nahidul-fahim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob123121&layout=donut-vertical&theme=transparent)](https://github.com/Biplob123121)
 
 
 </div>
