@@ -106,7 +106,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br>
 
 
-### ☕ Caffeina Haven (An online restaurant management platform)
+### SUWQ (An e-commerce project)
 
 * **Live site**: [SUWQ](https://www.suwq.online)
 * This is a e-commerce project. It is made for client.
@@ -115,16 +115,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <br><br>
 
 
-### 🚙 Motor Mingle (A car-selling website)
+###  Gaming Sell (Game account buy-sell project)
 
-* **Live site**: [Motor Mingle](https://motor-mingle.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/motor-mingle-client).
-
-
-<br><br>
+* **Live site**: [Gaming sell](https://game-sell.vercel.app)
+* It is a game account buy sell project. It is made for client.
 
 
-### 📦 Glide Parcel (A parcel booking website)
-
-* **Live site**: [Glide parcel](https://glide-parcel.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/glide-parcel-client).
