@@ -11,14 +11,14 @@
 
 ## 🙋‍♂️ About me
 
-Hey there! 👋 I'm Nahidul Islam, a passionate MERN stack developer hailing from the vibrant city of Chattogram, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
+Hey there! 👋 I'm Biplob, a passionate MERN stack developer hailing from the vibrant city of Rajshahi, Bangladesh. With a keen eye for detail and a love for crafting seamless user experiences, I specialize in the front end, with a strong focus on React.js and Next.js.
 
 <br>
 
 * I'm currently working on [Bongo Blend](https://github.com/nahidul-fahim/bongo-blend "Bongo Blend Project")
 * I'm currently learning **Next.js, Redux**
-* You can reach me here: [nahidul7562@gmail.com](mailto:nahidul7562@gmail.com "Drop an email")
-* [Visit my portfolio](https://nahidul-islam-fahim.web.app "Portfolio website")
+* You can reach me here: [biplobkb123@gmail.com](mailto:biplobkb123@gmail.com "Drop an email")
+* [Visit my portfolio](https://biplob-kb.web.app "Portfolio website")
 
 <br>
 
