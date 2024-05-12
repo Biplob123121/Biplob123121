@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/iamnahidul-islam/">
+<a href="https://www.linkedin.com/in/biplob-kumar-barmon/">
 <img src="https://raw.githubusercontent.com/Biplob123121/Biplob123121/main/biplobGithubBanner.gif" />
 </a>
 
@@ -62,14 +62,9 @@ I'm actively seeking opportunities to collaborate on exciting front-end projects
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/iamnahidul-islam/" target="_blank">
+  <a href="https://www.linkedin.com/in/biplob-kumar-barmon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
-  <a href="https://twitter.com/nahidul_fahim_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
 </p>
 
 Feel free to explore my repositories below and reach out if you're looking for an enthusiastic junior developer ready to bring creativity and a strong work ethic to your team.
@@ -113,8 +108,8 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ### ☕ Caffeina Haven (An online restaurant management platform)
 
-* **Live site**: [Caffeina Haven](https://caffeina-haven.web.app)
-* [Visit repo for more details.](https://github.com/nahidul-fahim/caffeina-haven-client).
+* **Live site**: [SUWQ](https://www.suwq.online)
+* This is a e-commerce project. It is made for client.
 
 
 <br><br>
