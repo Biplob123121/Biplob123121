@@ -15,8 +15,8 @@ Hey there! 👋 I'm Biplob, a passionate MERN stack developer hailing from the v
 
 <br>
 
-* I'm currently working on [Bongo Blend](https://github.com/nahidul-fahim/bongo-blend "Bongo Blend Project")
-* I'm currently learning **Next.js, Redux**
+* I'm currently working on [Gaming sell](https://game-sell.vercel.app "Gaming Project")
+* I'm currently learning **Next.js, Typescript**
 * You can reach me here: [biplobkb123@gmail.com](mailto:biplobkb123@gmail.com "Drop an email")
 * [Visit my portfolio](https://biplob-kb.web.app "Portfolio website")
 
