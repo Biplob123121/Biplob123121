@@ -78,7 +78,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 
 ![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob-kb&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biplob123121&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/biplob-kb)
+[![GitHub Streak](https://streak-stats.demolab.com?user=biplob-kb&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/biplob-kb)
 
 
 
