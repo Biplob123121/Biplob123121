@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/biplob-kumar-barmon/">
-<img src="https://raw.githubusercontent.com/Biplob123121/biplob-kb/main/biplobGithubBanner.gif" />
+<img src="https://raw.githubusercontent.com/biplob-kb/biplob-kb/main/biplobGithubBanner.gif" />
 </a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Biplob123121&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=biplob-kb&color=blueviolet&style=for-the-badge)
 
 <br>
 
