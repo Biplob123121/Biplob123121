@@ -4,7 +4,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=biplob-kb&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Biplob123121&color=blueviolet&style=for-the-badge)
 
 <br>
 
