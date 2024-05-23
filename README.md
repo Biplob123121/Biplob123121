@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/biplob-kumar-barmon/">
-<img src="https://raw.githubusercontent.com/Biplob123121/Biplob123121/main/biplobGithubBanner.gif" />
+<img src="https://raw.githubusercontent.com/Biplob123121/biplob-kb/main/biplobGithubBanner.gif" />
 </a>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Biplob123121&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=biplob-kb&color=blueviolet&style=for-the-badge)
 
 <br>
 
@@ -76,9 +76,9 @@ Feel free to explore my repositories below and reach out if you're looking for a
 ## 🔍 Git Insights
 <div align="center">
 
-![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob123121&show_icons=true&theme=transparent)
+![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplob-kb&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biplob123121&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/nahidul-fahim)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Biplob123121&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/biplob-kb)
 
 
 
@@ -93,7 +93,7 @@ Feel free to explore my repositories below and reach out if you're looking for a
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob123121&layout=donut-vertical&theme=transparent)](https://github.com/Biplob123121)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob123121&layout=donut-vertical&theme=transparent)](https://github.com/biplob-kb)
 
 
 </div>
